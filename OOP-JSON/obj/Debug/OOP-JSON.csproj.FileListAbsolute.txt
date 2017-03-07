@@ -1,0 +1,9 @@
+C:\Users\Duke\documents\visual studio 2017\Projects\OOP-JSON\OOP-JSON\bin\Debug\OOP-JSON.exe.config
+C:\Users\Duke\documents\visual studio 2017\Projects\OOP-JSON\OOP-JSON\bin\Debug\OOP-JSON.exe.manifest
+C:\Users\Duke\documents\visual studio 2017\Projects\OOP-JSON\OOP-JSON\bin\Debug\OOP-JSON.application
+C:\Users\Duke\documents\visual studio 2017\Projects\OOP-JSON\OOP-JSON\bin\Debug\OOP-JSON.exe
+C:\Users\Duke\documents\visual studio 2017\Projects\OOP-JSON\OOP-JSON\bin\Debug\OOP-JSON.pdb
+C:\Users\Duke\documents\visual studio 2017\Projects\OOP-JSON\OOP-JSON\obj\Debug\OOP-JSON.exe.manifest
+C:\Users\Duke\documents\visual studio 2017\Projects\OOP-JSON\OOP-JSON\obj\Debug\OOP-JSON.application
+C:\Users\Duke\documents\visual studio 2017\Projects\OOP-JSON\OOP-JSON\obj\Debug\OOP-JSON.exe
+C:\Users\Duke\documents\visual studio 2017\Projects\OOP-JSON\OOP-JSON\obj\Debug\OOP-JSON.pdb
